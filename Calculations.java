@@ -1,3 +1,4 @@
+// 1.Create a Java program that functions as a basic calculator. It should take two numbers and perform operations like addition, subtraction, multiplication, and division based on user input.
 import java.util.Scanner;
 class Calculations{
     public static void main(String[] args)
